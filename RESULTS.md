@@ -28,11 +28,3 @@ Rules: enter when |z| > 2.0, exit when |z| < 0.5; cost 0.05 $/bbl per position c
 - Time in market: **34%**
 
 Caveat: spot-price backtest only. A real trade would use futures, face roll costs, margin and liquidity constraints, and different contract specifications.
-
-## Charts
-
-![01_crude_prices.png](charts/01_crude_prices.png)
-![02_brent_wti_spread.png](charts/02_brent_wti_spread.png)
-![03_crack_spread.png](charts/03_crack_spread.png)
-![04_vol_and_correlation.png](charts/04_vol_and_correlation.png)
-![05_backtest_equity.png](charts/05_backtest_equity.png)
