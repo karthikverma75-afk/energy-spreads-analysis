@@ -43,7 +43,7 @@ Outputs are written to `outputs/`: `charts/*.png`, `summary_stats.csv`, `spreads
 
 ## Results
 
-See [`outputs/RESULTS.md`](outputs/RESULTS.md), which is generated from the latest run.
+
 
 Key findings (EIA data, 2 January 2015 to 27 October 2026, 2,912 trading days):
 - **2026 is exceptional for Brent–WTI.** The spread has averaged **$9.99/bbl in 2026**, against **$4.05/bbl over 2015–2025**, and peaked at **$37.62/bbl on 2 October 2026** (latest: $19.73). That pattern fits a supply shock that hits seaborne crude harder than landlocked US barrels.
